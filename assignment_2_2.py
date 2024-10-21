@@ -1,6 +1,6 @@
 """
 -----------------------------------------------------------------------
-Assignment 2_2: Sum of logarithms of all Prime numbers between 2 and n.
+Sum of logarithms of all Prime numbers between 2 and n.
 September 25, 2024 
 Nishigandha Wankhade 
 -----------------------------------------------------------------------
