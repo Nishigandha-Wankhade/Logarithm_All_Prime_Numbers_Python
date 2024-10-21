@@ -1,0 +1,1 @@
+# Logarithm_All_Prime_Numbers_Python
